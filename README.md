@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Leena&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=XR%20Developer%20%E2%80%A2%20Immersive%20Training%20Simulations&descSize=20&descAlignY=60&animation=fadeIn" alt="Leena — XR Developer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Leena%20Alqahtani&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=XR%20%26%20AI%20Developer%20%E2%80%A2%20Immersive%20Training%20Simulations&descSize=20&descAlignY=60&animation=fadeIn" alt="Leena Alqahtani — XR & AI Developer" width="100%"/>
 </p>
 
 <p align="center">
@@ -16,18 +16,27 @@
   <img src="https://img.shields.io/badge/Defensathon%202026-3rd%20Place-FFB000?style=for-the-badge&logo=trophy&logoColor=white"/>
 </p>
 
+<p align="center">
+  <a href="https://leena-alqahtani.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-36BCF7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/leena-alqahtani"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1ghwT-p61NJ2QghFOAkUASA7GJlgflSJq/view?usp=sharing"><img src="https://img.shields.io/badge/CV-Open-2EA44F?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+</p>
+
 ---
 
 ## 👩‍💻 About Me
 
-I build **immersive training simulations** in **Virtual and Mixed Reality**. These are experiences where people practise high-stakes, real-world skills safely before they ever do them for real.
+I build **immersive training simulations** in **Virtual and Mixed Reality**, powered by **AI** and custom **backends**. These are experiences where people practise high-stakes, real-world skills safely before they ever do them for real.
+
+I'm an **Information Technology** student at **Princess Nourah bint Abdulrahman University** (graduating 2027), based in **Riyadh, Saudi Arabia** 🇸🇦
 
 ```csharp
-public class Leena : XRDeveloper
+public class Leena : XRDeveloper, IAIDeveloper, IBackendDeveloper
 {
-    public string[] Focus     => new[] { "VR / MR Training Simulations", "Interaction Design in XR", "AI + Hardware Integration" };
-    public string[] Platforms => new[] { "Meta Quest", "OpenXR" };
-    public string[] Domains   => new[] { "Healthcare (Radiotherapy)", "Defense (EOD)", "Cyber Awareness" };
+    public string   Education => "B.Sc. Information Technology · PNU · 2027";
+    public string[] Focus     => new[] { "VR / MR Training Simulations", "Generative AI in XR", "REST APIs & Backends" };
+    public string[] Platforms => new[] { "Meta Quest 3", "OpenXR", "AR (Vuforia)" };
+    public string[] Domains   => new[] { "Healthcare (Radiotherapy)", "Defense (EOD)", "Cyber Awareness", "Assistive AR" };
     public string   Currently => "Turning complex procedures into hands-on XR experiences";
 }
 ```
@@ -50,13 +59,40 @@ public class Leena : XRDeveloper
     </td>
   </tr>
   <tr>
+    <td align="center"><h1>💡</h1></td>
+    <td>
+      <b>AMAD Hackathon 2026</b><br/>
+      <sub>Built <a href="https://github.com/leenasync/syrax-fraud-awareness"><b>SYRAX</b></a>, an AI-powered VR fraud-awareness experience.</sub>
+    </td>
+  </tr>
+  <tr>
     <td align="center"><h1>🎓</h1></td>
     <td>
-      <b>Tuwaiq Academy, XR Bootcamp Graduate</b><br/>
-      <sub>Graduation project: <a href="https://github.com/leenasync/vr-landmine-defusal"><b>Landmine</b></a>, a VR landmine-defusal training experience.</sub>
+      <b>Tuwaiq Academy, XR Development Bootcamp</b> · 120 hours<br/>
+      <sub>Graduation project: <a href="https://github.com/leenasync/silent-field-vr"><b>Silent Field</b></a>, a VR landmine-awareness training experience.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><h1>🏅</h1></td>
+    <td>
+      <b>Dean's Recognition</b><br/>
+      <sub>For extracurricular achievements.</sub>
     </td>
   </tr>
 </table>
+
+---
+
+## 📜 Certifications
+
+| | Certification | Issuer |
+|:-:|---|---|
+| 🟧 | **Amazon Junior Software Developer** · Professional Certificate | Amazon · Coursera · 2026 |
+| 🟦 | **CAPM**: Certified Associate in Project Management | PMI · 2026 |
+| ⬛ | **Unity VR Development** | Unity Technologies · 2025 |
+| 🟪 | **XR Development Bootcamp** | Tuwaiq Academy · 2025 |
+| 🟩 | **CCNA**: Introduction to Networks | Cisco · 2025 |
+| 🟥 | **Java Foundations** | Oracle Academy · 2024 |
 
 ---
 
@@ -77,7 +113,7 @@ public class Leena : XRDeveloper
     </td>
     <td width="50%" valign="top">
       <h3>🩺 VR CT Simulation <sub><sup>🔒 private</sup></sub></h3>
-      <p><b>Radiotherapy CT-Sim Training</b> · Meta Quest</p>
+      <p><b>Radiotherapy CT-Sim Training</b> · Client project · Meta Quest 3</p>
       <p>A full virtual CT room where students practise <b>Breast</b> and <b>Head & Neck</b> patient preparation: positioning, thermoplastic mask heating, laser alignment and marking. They then receive <b>AI-generated feedback</b> (Gemini) on their performance.</p>
       <p>
         <img src="https://img.shields.io/badge/VR-Healthcare-00A98F?style=flat-square"/>
@@ -89,8 +125,8 @@ public class Leena : XRDeveloper
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💣 <a href="https://github.com/leenasync/vr-landmine-defusal">Landmine</a></h3>
-      <p><b>VR Landmine Defusal</b> · Tuwaiq Academy graduation project</p>
+      <h3>💣 <a href="https://github.com/leenasync/silent-field-vr">Silent Field</a></h3>
+      <p><b>VR Landmine Awareness</b> · Tuwaiq Academy graduation project</p>
       <p>Gear up indoors, head out to a desert inspired by <b>AlUla</b>, locate the mine with a metal detector and defuse it step by step before the timer runs out.</p>
       <p>
         <img src="https://img.shields.io/badge/VR-Training-0467DF?style=flat-square&logo=meta&logoColor=white"/>
@@ -100,7 +136,7 @@ public class Leena : XRDeveloper
     </td>
     <td width="50%" valign="top">
       <h3>🛡️ <a href="https://github.com/leenasync/syrax-fraud-awareness">SYRAX</a></h3>
-      <p><b>Immersive Fraud Awareness</b></p>
+      <p><b>Immersive Fraud Awareness</b> · AMAD Hackathon 2026</p>
       <p>A server-driven experience that puts users inside realistic scam scenarios (a <b>phone call</b>, a <b>fake website</b> and a <b>phishing message</b>), personalized by an AI risk profile and scored on every decision.</p>
       <p>
         <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
@@ -110,6 +146,11 @@ public class Leena : XRDeveloper
     </td>
   </tr>
 </table>
+
+<p align="center">
+  ➕ Also on my portfolio: <b>AR Alzheimer's Memory Support</b>, a marker-based AR app with memory aids and cognitive exercises.<br/>
+  <a href="https://leena-alqahtani.netlify.app/#work"><b>See all projects →</b></a>
+</p>
 
 ---
 
@@ -143,7 +184,7 @@ public class Leena : XRDeveloper
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,nodejs,js,git,github&perline=6" alt="Tech stack"/>
+  <img src="https://skillicons.dev/icons?i=unity,cs,python,java,nodejs,express,mysql,blender,git,github&perline=10" alt="Tech stack"/>
 </p>
 
 <p align="center">
@@ -158,17 +199,23 @@ public class Leena : XRDeveloper
 
 | Area | What I work with |
 |------|------------------|
-| 🥽 **XR** | Unity 6, OpenXR, XR Interaction Toolkit, XR Hands, Meta XR SDK, passthrough MR |
-| 🧠 **Logic** | C# gameplay systems, state machines, scoring and assessment, adaptive difficulty |
-| 🔌 **Integration** | REST APIs, WebSocket, streaming live sensor data into Unity, LLM feedback |
-| 🎨 **3D & Scenes** | Scene building, rigged characters, animation, VFX, spatial audio |
+| 🥽 **XR** | Unity 6, OpenXR, XR Interaction Toolkit, XR Hands, Meta XR SDK, passthrough MR, Vuforia AR |
+| 🤖 **AI & Backend** | Generative AI, Google Gemini API, Node.js, Express.js, REST APIs, WebSocket |
+| 🧠 **Logic** | C#, Java, Python, OOP, data structures & algorithms, state machines, scoring and assessment |
+| 🗄️ **Data** | SQL, MySQL, database management |
+| 🎨 **3D & Scenes** | Blender, scene building, rigged characters, animation, VFX, spatial audio |
 
 ---
 
 <h3 align="center">🤝 Let's Build Something Immersive</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=Open+to+XR+development+opportunities;Turning+real-world+skills+into+immersive+experiences" alt="Open to XR opportunities"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=Open+to+AI+%C2%B7+XR+%C2%B7+Backend+roles;Turning+real-world+skills+into+immersive+experiences" alt="Open to AI, XR and Backend roles"/>
+</p>
+
+<p align="center">
+  <a href="https://leena-alqahtani.netlify.app"><img src="https://img.shields.io/badge/Portfolio-leena--alqahtani.netlify.app-36BCF7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/leena-alqahtani"><img src="https://img.shields.io/badge/LinkedIn-leena--alqahtani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <p align="center">
