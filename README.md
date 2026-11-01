@@ -33,7 +33,7 @@ public class Leena : XRDeveloper
 ```
 
 - 🥽 Design and build **complete XR experiences**, from the idea through the interaction logic to the final build on headset
-- 🤖 Connect XR to **AI** (LLM feedback, adaptive assessment) and to **real hardware** (live ESP32 sensor data)
+- 🤖 Integrate **AI** (LLM feedback, adaptive assessment) and **live sensor data from external hardware** into XR experiences
 - Lead teams from concept to a **winning competition demo**
 
 ---
@@ -125,7 +125,6 @@ public class Leena : XRDeveloper
   <img src="https://img.shields.io/badge/URP-000000?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hand%20Tracking-5C2D91?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
 </p>
 
@@ -133,7 +132,7 @@ public class Leena : XRDeveloper
 |------|------------------|
 | 🥽 **XR** | Unity 6, OpenXR, XR Interaction Toolkit, XR Hands, Meta XR SDK, passthrough MR |
 | 🧠 **Logic** | C# gameplay systems, state machines, scoring and assessment, adaptive difficulty |
-| 🔌 **Integration** | REST APIs, WebSocket, live hardware data (ESP32), LLM feedback |
+| 🔌 **Integration** | REST APIs, WebSocket, streaming live sensor data into Unity, LLM feedback |
 | 🎨 **3D & Scenes** | Scene building, rigged characters, animation, VFX, spatial audio |
 
 ---
