@@ -52,7 +52,7 @@ public class Leena : XRDeveloper
   <tr>
     <td align="center"><h1>🎓</h1></td>
     <td>
-      <b>Tuwaiq Academy, VR Bootcamp Graduate</b><br/>
+      <b>Tuwaiq Academy, XR Bootcamp Graduate</b><br/>
       <sub>Graduation project: <a href="https://github.com/leenasync/vr-landmine-defusal"><b>Landmine</b></a>, a VR landmine-defusal training experience.</sub>
     </td>
   </tr>
