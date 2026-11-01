@@ -19,7 +19,7 @@
 <p align="center">
   <a href="https://leena-alqahtani.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-36BCF7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/leena-alqahtani"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://drive.google.com/file/d/1ghwT-p61NJ2QghFOAkUASA7GJlgflSJq/view?usp=sharing"><img src="https://img.shields.io/badge/CV-Open-2EA44F?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+  <a href="https://leena-alqahtani.netlify.app/cv/Leena_Alqahtani_CV.pdf"><img src="https://img.shields.io/badge/CV-Open-2EA44F?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
 </p>
 
 ---
