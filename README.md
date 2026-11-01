@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Leena%20Alqahtani&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=XR%20%26%20AI%20Developer%20%E2%80%A2%20Immersive%20Training%20Simulations&descSize=20&descAlignY=60&animation=fadeIn" alt="Leena Alqahtani — XR & AI Developer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Leena%20Alqahtani&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=XR%20%C2%B7%20AI%20Developer%20%E2%80%A2%20Immersive%20Training%20Simulations&descSize=20&descAlignY=60&animation=fadeIn" alt="Leena Alqahtani — XR & AI Developer" width="100%"/>
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 I build **immersive training simulations** in **Virtual and Mixed Reality**, powered by **AI** and custom **backends**. These are experiences where people practise high-stakes, real-world skills safely before they ever do them for real.
 
-I'm an **Information Technology** student at **Princess Nourah bint Abdulrahman University** (graduating 2027), based in **Riyadh, Saudi Arabia** 🇸🇦
+I'm an **Information Technology** student at **Princess Nourah bint Abdulrahman University** (graduating 2027), based in **Riyadh, Saudi Arabia**.
 
 ```csharp
 public class Leena : XRDeveloper, IAIDeveloper, IBackendDeveloper
