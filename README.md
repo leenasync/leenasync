@@ -34,7 +34,7 @@ public class Leena : XRDeveloper
 
 - 🥽 Design and build **complete XR experiences**, from the idea through the interaction logic to the final build on headset
 - 🤖 Connect XR to **AI** (LLM feedback, adaptive assessment) and to **real hardware** (live ESP32 sensor data)
-- 👑 Lead teams from concept to a **winning competition demo**
+- Lead teams from concept to a **winning competition demo**
 
 ---
 
