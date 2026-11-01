@@ -84,6 +84,7 @@ public class Leena : XRDeveloper
         <img src="https://img.shields.io/badge/Gemini-AI%20Feedback-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
         <img src="https://img.shields.io/badge/XR%20Hands-Hand%20Tracking-0467DF?style=flat-square"/>
       </p>
+      <p>🎬 <a href="#-demo--vr-ct-simulation"><b>Watch the demos ↓</b></a></p>
     </td>
   </tr>
   <tr>
@@ -109,6 +110,33 @@ public class Leena : XRDeveloper
     </td>
   </tr>
 </table>
+
+---
+
+## 🎬 Demo · VR CT Simulation
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/leenasync/leenasync/raw/main/assets/BreastCT_demo.mp4">
+        <img src="assets/BreastCT_demo_preview.gif" width="100%" alt="Breast CT Simulation demo"/>
+      </a>
+      <br/><b>🩺 Breast Scenario</b>
+      <br/><sub>Patient verification → breast board setup → positioning → skin marking → CT review → <b>AI feedback 100%</b></sub>
+      <br/><a href="https://github.com/leenasync/leenasync/raw/main/assets/BreastCT_demo.mp4">▶ Watch full demo (1:11)</a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/leenasync/leenasync/raw/main/assets/HeadNeck_CT_demo.mp4">
+        <img src="assets/HeadNeck_CT_demo_preview.gif" width="100%" alt="Head and Neck CT Simulation demo"/>
+      </a>
+      <br/><b>🧠 Head & Neck Scenario</b>
+      <br/><sub>Patient verification → positioning → thermoplastic mask heating → mask fixation → laser alignment → <b>AI feedback</b></sub>
+      <br/><a href="https://github.com/leenasync/leenasync/raw/main/assets/HeadNeck_CT_demo.mp4">▶ Watch full demo (1:21)</a>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><sub>Previews play at 7× speed. Click to watch the full demo.</sub></p>
 
 ---
 
