@@ -137,10 +137,13 @@ public class Leena : XRDeveloper
 
 ---
 
+<h3 align="center">🤝 Let's Build Something Immersive</h3>
+
 <p align="center">
-  <i>"Steady hands save lives. Good training builds them."</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=Open+to+XR+development+opportunities;Turning+real-world+skills+into+immersive+experiences" alt="Open to XR opportunities"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-2EA44F?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=leenasync&label=Profile%20Views&color=0467DF&style=for-the-badge" alt="Profile views"/>
 </p>
